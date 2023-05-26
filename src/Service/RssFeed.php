@@ -56,6 +56,18 @@ class RssFeed
         return array_unique($images);
     }
 
+    public function getDataJson($url)
+    {
+
+        $httpClient = HttpClient::create();
+        $response = $httpClient->request('GET', $url);
+        $statusCode = $response->getStatusCode();
+        $content = $response->getContent();
+        $jsonData = json_decode($content, true);
+
+        return ['jsonData' => $jsonData, 'statusCode' => $statusCode];
+    }
+
 
     public function getDomainName($url)
     {
@@ -76,16 +88,4 @@ class RssFeed
         return null;
     }
 
-
-    public function getDataJson($url)
-    {
-
-        $httpClient = HttpClient::create();
-        $response = $httpClient->request('GET', $url);
-        $statusCode = $response->getStatusCode();
-        $content = $response->getContent();
-        $jsonData = json_decode($content, true);
-
-        return ['jsonData' => $jsonData, 'statusCode' => $statusCode];
-    }
 }

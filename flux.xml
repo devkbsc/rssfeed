@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/">
+	<channel>
+		<title>CommitStrip</title>
+		<description>The blog relating the daily life of web agency developers</description>
+		<link>https://www.commitstrip.com</link>
+		<lastBuildDate>Fri, 09 Dec 2022 14:43:34 +0000</lastBuildDate>
+		<item>
+			<title><![CDATA[A whole new world]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2022/12/09/a-whole-new-world/]]></link>
+			<pubDate>Fri, 09 Dec 2022 15:17:55 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21182</dc:identifier>
+			<dc:modified>2022-12-09 15:43:34</dc:modified>
+			<dc:created unix="1670599075">2022-12-09 15:17:55</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2022/12/09/a-whole-new-world/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<div style="max-width: 650px; margin: 0 auto; padding: 20px;">Next week, join us at <a href="https://www.apidays.global/paris/"><b>APIDays in Paris</b></a>! The conference dedicated to APIs is celebrating its 10th anniversary (already!) and is coming back from December 13th to 15th at the Cité des Sciences et de l'Industrie, in Paris. This will be the opportunity for us to present unpublished strips on the theme of APIs. You want to come? Get your free ticket with CommitStrip! => The first 25 to register with the code <a href="https://www.apidays.global/paris/"><b>COMMITSTRIP25</b></a> will get their tickets for free !On the way to <a href="https://www.apidays.global/paris/"><b>APIDays Paris</b></a>!<br/></div><img class="aligncenter size-full wp-image-21184" src="https://www.commitstrip.com/wp-content/uploads/2022/12/Strip-ChatPTAPIdays-EN.jpg" alt="" width="650" height="644" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2022/12/HeadlineImageTemplate-.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2022/12/HeadlineImageTemplate-.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[Once upon a Teams meeting…]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2022/09/13/once-upon-a-teams-meeting/]]></link>
+			<pubDate>Tue, 13 Sep 2022 16:41:30 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21176</dc:identifier>
+			<dc:modified>2022-09-13 16:41:30</dc:modified>
+			<dc:created unix="1663087290">2022-09-13 16:41:30</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2022/09/13/once-upon-a-teams-meeting/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<a href="https://www.commitstrip.com/wp-content/uploads/2022/09/Strip-Conf-Teams-sans-écouter-650-finalenglish.jpg"><img class="aligncenter size-full wp-image-21177" src="https://www.commitstrip.com/wp-content/uploads/2022/09/Strip-Conf-Teams-sans-écouter-650-finalenglish.jpg" alt="" width="650" height="920" /></a>]]></content:encoded>
+			<enclosure
+				url="https://www.commitstrip.com/wp-content/uploads/2022/09/HeadlineImageTemplate-.jpg" />
+			<media:content
+				url="https://www.commitstrip.com/wp-content/uploads/2022/09/HeadlineImageTemplate-.jpg"
+				height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[The right tool for the right job at the right time?]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2022/06/08/the-right-tool-for-the-right-job-at-the-right-time/]]></link>
+			<pubDate>Wed, 08 Jun 2022 16:26:54 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21163</dc:identifier>
+			<dc:modified>2022-06-08 16:53:54</dc:modified>
+			<dc:created unix="1654705614">2022-06-08 16:26:54</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2022/06/08/the-right-tool-for-the-right-job-at-the-right-time/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<a href="https://www.commitstrip.com/wp-content/uploads/2022/06/Strip-Le-bon-outil-pour-le-bon-job-650-finalenglishV2.jpg"><img class="aligncenter wp-image-21169 size-full" src="https://www.commitstrip.com/wp-content/uploads/2022/06/Strip-Le-bon-outil-pour-le-bon-job-650-finalenglishV2.jpg" alt="" width="650" height="644" /></a>]]></content:encoded>
+			<enclosure
+				url="https://www.commitstrip.com/wp-content/uploads/2022/06/HeadlineImageTemplate-.jpg" />
+			<media:content
+				url="https://www.commitstrip.com/wp-content/uploads/2022/06/HeadlineImageTemplate-.jpg"
+				height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[Security Questionnaire]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2022/02/22/security-questionnaire/]]></link>
+			<pubDate>Tue, 22 Feb 2022 20:04:25 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21155</dc:identifier>
+			<dc:modified>2022-06-08 17:43:14</dc:modified>
+			<dc:created unix="1645560265">2022-02-22 20:04:25</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2022/02/22/security-questionnaire/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img class="alignnone size-full wp-image-21156" src="https://www.commitstrip.com/wp-content/uploads/2022/02/Strip-OUI-a-tout-650-finalenglish.jpg" alt="" width="650" height="606" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2022/02/HeadlineImageTemplate-Récupéré.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2022/02/HeadlineImageTemplate-Récupéré.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[A radical solution]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2022/01/25/a-radical-solution/]]></link>
+			<pubDate>Tue, 25 Jan 2022 15:04:13 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21144</dc:identifier>
+			<dc:modified>2022-01-26 07:42:33</dc:modified>
+			<dc:created unix="1643123053">2022-01-25 15:04:13</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2022/01/25/a-radical-solution/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img src="https://www.commitstrip.com/wp-content/uploads/2022/01/Strip-COVID-Une-solution-radicale-650-finalenglishV2.jpg" alt="" width="650" height="644" class="alignnone size-full wp-image-21151" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2022/01/HeadlineImageTemplate-.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2022/01/HeadlineImageTemplate-.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[M3RRY CHR1STMAS 2021]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2021/12/25/m3rry-chr1stmas-2021/]]></link>
+			<pubDate>Sat, 25 Dec 2021 14:09:38 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21138</dc:identifier>
+			<dc:modified>2021-12-25 14:09:38</dc:modified>
+			<dc:created unix="1640441378">2021-12-25 14:09:38</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2021/12/25/m3rry-chr1stmas-2021/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img src="https://www.commitstrip.com/wp-content/uploads/2021/12/Merry-Christmas-2021-2.jpg" alt="" width="650" height="707" class="alignnone size-full wp-image-21139" />]]></content:encoded>
+			<enclosure url="" />
+			<media:content url="" height="" width="" type="" />
+		</item>
+		<item>
+			<title><![CDATA[We all do it, right?]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2021/12/07/we-all-do-it-right/]]></link>
+			<pubDate>Tue, 07 Dec 2021 17:44:39 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21118</dc:identifier>
+			<dc:modified>2021-12-07 17:44:39</dc:modified>
+			<dc:created unix="1638899079">2021-12-07 17:44:39</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2021/12/07/we-all-do-it-right/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img src="https://www.commitstrip.com/wp-content/uploads/2021/12/Strip-Donnée-de-prod-en-staging-650-finalenglish.jpg" alt="" width="650" height="644" class="alignnone size-full wp-image-21119" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2021/12/HeadlineImageTemplate-.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2021/12/HeadlineImageTemplate-.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[A touch of real life, but not too much]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2021/11/26/a-touch-of-real-life-but-not-too-much/]]></link>
+			<pubDate>Fri, 26 Nov 2021 18:44:59 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21112</dc:identifier>
+			<dc:modified>2021-11-26 18:44:59</dc:modified>
+			<dc:created unix="1637952299">2021-11-26 18:44:59</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2021/11/26/a-touch-of-real-life-but-not-too-much/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img src="https://www.commitstrip.com/wp-content/uploads/2021/11/Strip-Not-a-paradox-650-finalenglish.jpg" alt="" width="650" height="644" class="alignnone size-full wp-image-21114" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2021/11/HeadlineImageTemplate-1-1.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2021/11/HeadlineImageTemplate-1-1.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[No documentation]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2021/11/10/no-documentation/]]></link>
+			<pubDate>Wed, 10 Nov 2021 16:20:39 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21105</dc:identifier>
+			<dc:modified>2021-11-10 16:20:39</dc:modified>
+			<dc:created unix="1636561239">2021-11-10 16:20:39</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2021/11/10/no-documentation/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img src="https://www.commitstrip.com/wp-content/uploads/2021/11/Strip-Pas-de-documentation-650-finalenglish.jpg" alt="" width="650" height="627" class="alignnone size-full wp-image-21106" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2021/11/HeadlineImageTemplate-.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2021/11/HeadlineImageTemplate-.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+		<item>
+			<title><![CDATA[It haunts us]]></title>
+			<link><![CDATA[https://www.commitstrip.com/2021/06/22/it-haunts-us/]]></link>
+			<pubDate>Tue, 22 Jun 2021 18:14:45 +0000</pubDate>
+			<dc:creator>CommitStrip</dc:creator>
+			<dc:identifier>21097</dc:identifier>
+			<dc:modified>2021-06-22 18:14:45</dc:modified>
+			<dc:created unix="1624385685">2021-06-22 18:14:45</dc:created>
+			<guid isPermaLink="true"><![CDATA[https://www.commitstrip.com/2021/06/22/it-haunts-us/]]></guid>
+			<category>1</category>
+			<description><![CDATA[]]></description>
+			<content:encoded><![CDATA[<img src="https://www.commitstrip.com/wp-content/uploads/2021/06/Strip-Refractoring-du-code-650-finalenglish.jpg" alt="" width="650" height="644" class="alignnone size-full wp-image-21099" />]]></content:encoded>
+			<enclosure url="https://www.commitstrip.com/wp-content/uploads/2021/06/HeadlineImageTemplate-.jpg" />
+			<media:content url="https://www.commitstrip.com/wp-content/uploads/2021/06/HeadlineImageTemplate-.jpg" height="492" width="940" type="image/jpeg" />
+		</item>
+	</channel>
+</rss><!--
+end of xml string -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 78/78 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: www.commitstrip.com @ 2023-05-23 11:20:03 by W3 Total Cache
+-->

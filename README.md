@@ -15,4 +15,5 @@ Pratique :
 Questions théoriques : 
 1. Que mettriez-vous en place afin d'améliorer les temps de réponses du script :
     - Après avoir découpé la fonction, et crée des differents actions, il va mieux.
+    - 
 2. Comment aborderiez-vous le fait de rendre scalable le script (plusieurs milliers de sources et images)  : kubernaties , Mise à echelles

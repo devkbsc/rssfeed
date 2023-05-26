@@ -11,7 +11,8 @@ class RssFeed
     public function getDomNameImages($requestUrl)
     {
         // Fetch the RSS feed using HttpClient
-        $client = HttpClient::create();
+        // Dans le create on peut ajouter ['verify_peer' => false], en cas de SSL n'est pas OK
+        $client = HttpClient::create(); 
         $response = $client->request('GET', $requestUrl);
         $content = $response->getContent();
 
